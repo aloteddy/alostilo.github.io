@@ -1358,12 +1358,13 @@ input, select, textarea {
 			padding-left: 0;
 			border: solid 1px #ffffff;
 			border-radius: 4px;
-			color: #c3c49e;
+			color: aquamarine;
 		}
 
 			#header nav ul li {
 				padding-left: 0;
 				border-left: solid 1px #ffffff;
+				
 			}
 
 				#header nav ul li:first-child {
