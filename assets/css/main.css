@@ -1358,13 +1358,13 @@ input, select, textarea {
 			padding-left: 0;
 			border: solid 1px #ffffff;
 			border-radius: 4px;
-			color: aquamarine;
+			color: #c3c49e;
 		}
 
 			#header nav ul li {
 				padding-left: 0;
 				border-left: solid 1px #ffffff;
-				
+				color: greenyellow;
 			}
 
 				#header nav ul li:first-child {
@@ -1673,4 +1673,12 @@ input, select, textarea {
 
 		body.is-preload #footer {
 			opacity: 0;
+		}
+
+		#intro{
+			color: yellowgreen;
+		}
+
+		.to-work{
+			color: yellowgreen;
 		}
